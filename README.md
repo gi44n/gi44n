@@ -93,7 +93,6 @@ I’m Full-Stack Developer, with focus on AI and AI agents, currently pursuing a
 
 # 💡 Fun Fact
 
-<p align="center">
 I love regular show and hot dog!
 </p>
 
