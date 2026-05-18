@@ -84,8 +84,6 @@ I’m Full-Stack Developer, with focus on AI and AI agents, currently pursuing a
 <div align="center">
   <img width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
   &nbsp;&nbsp;
-  <img width="85" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  &nbsp;&nbsp;
   <img width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   &nbsp;&nbsp;
   <img width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" />
