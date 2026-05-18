@@ -4,8 +4,15 @@ I’m Full-Stack Developer, with focus on AI and AI agents, currently pursuing a
 
 
 🛠️ Tech Stack
+<div display="inline">
 Programming Languages
- Java PHP Golang JavaScript Python
+ <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img width="50" weight="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img width="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+
 
 Frameworks & Libraries
 React Native Laravel Spring Boot Express.js Django Next Node.js
