@@ -2,7 +2,7 @@
 
 </div>
 
-I’m Full-Stack Developer, with focus on AI and AI agents, currently pursuing a bachelor’s degree while building experience as a Full-Stack developer. I work with Golang, python, PHP, and JavaScript, focusing on designing and developing scalable web applications across both front-end and back-end environments. My goal is to grow my career in software development and later specialize in AI and Data analytics, combining development, security, and operations to build more secure and reliable systems. I’m always eager to learn new technologies and continuously expand my skills.
+I’m Full-Stack Dev, with focus on AI and AI agents. I work with Golang, python, PHP, and JavaScript, focusing on designing and developing scalable web applications. My goal is specialize in AI and Data analytics, combining development, security, and operations to build more secure and reliable systems.
 </p>
 
 ---
