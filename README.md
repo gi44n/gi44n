@@ -96,5 +96,6 @@ I’m Full-Stack Dev, with focus on AI and AI agents. I work with Golang, python
 <div align="center">
 
 📧 Email: **limacolombogianlucca@gmail.com**
+   LinkedIn: **https://www.linkedin.com/in/gian-lima-4067162a9/**
 
 </div>
