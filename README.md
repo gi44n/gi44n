@@ -91,13 +91,6 @@ I’m Full-Stack Dev, with focus on AI and AI agents. I work with Golang, python
 
 ---
 
-# 💡 Fun Fact
-
-I love regular show and hot dog!
-</p>
-
----
-
 # 📫 How to Reach Me
 
 <div align="center">
